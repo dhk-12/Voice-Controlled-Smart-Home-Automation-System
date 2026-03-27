@@ -1,0 +1,12 @@
+nltk
+pyserial
+openai-whisper
+requests
+websocket-client
+Flask
+Flask-Cors
+autocorrect
+pyspellchecker
+PyArabic
+langdetect
+transformers
